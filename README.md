@@ -25,7 +25,7 @@ This project is a comprehensive tutorial for setting up and installing the osTic
 
 ![image](https://github.com/kiesun01/osticket-prereqs/assets/132006466/0544afba-0aea-4fbc-af14-48bef245be3e)
 <p>
-Step 1: Navigate to "portal.azure.com/#home" to create a Resource Group. Search for Reasearh Groups. This group will house the Virtual Network and Subnet. 
+Step 1: Start on portal.azure.com where you can search for Reasearh Groups to create one. This group will house the Virtual Network and Subnet. 
 </p>
 <br />
 
@@ -53,7 +53,7 @@ Step 4: Search for Virtual Machines. Click Create. Select Azure virtual machine.
 
 ![image](https://github.com/kiesun01/osticket-prereqs/assets/132006466/c4269b79-19f9-4746-9b22-743e7ab7d931)
 <p>
-Step 5: Select the Research Group we created (RGosTicket). Name the Virtual Machine (ex: vmOsTicket). Choose a Region (ex: (US) East US). Choose an image (ex: Windows 10 Pro, version 22H2 - x64 Gen2 (free services eligible)). 
+Step 5: Select the Research Group we created (RGosTicket). Name the Virtual Machine (ex: vmOsTicket). Choose a Region (ex: Canada Central). Choose an image (ex: Windows 10 Pro, version 22H2 - x64 Gen2 (free services eligible)). 
 </p>
 <br />
 
