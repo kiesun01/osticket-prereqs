@@ -1,30 +1,25 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This guide provides a step-by-step approach to setting up and installing the osTicket help desk ticketing system. Below are the essential steps to follow:
+<h1>osTicket Prerequisites Setup Guide</h1>
+This project is a comprehensive tutorial for setting up and installing the osTicket help desk ticketing system, including a detailed walkthrough of necessary configurations and installations.
 
 
-1. Create a Resource Group: Start by creating a resource group in Microsoft Azure.
+<h2>Languages Used</h2>
 
-2. Set Up a Virtual Machine: Deploy a virtual machine within the resource group.
+- PowerShell
 
-3. Enable IIS: Enable Internet Information Services (IIS) on the virtual machine.
+<h2>Environments Used:</h2>
 
-4. Install PHP: Install PHP on your server.
+- Microsoft Azure
+- Windows 10
+- Windows Server
 
-5. Install MySQL: Set up MySQL for database management.
+<h2>Technologies/Applications/Services Used</h2>
 
-6. Download osTicket: Obtain the latest version of osTicket and extract the files.
-
-7. Configure Permissions: Set the necessary file permissions for osTicket.
-
-8. Database Configuration: Create a database and user for osTicket.
-
-9. Finalize Installation: Complete the osTicket installation through the web installer.
-
-By following these steps, you will successfully install and configure osTicket in a virtual environment.
-
+- osTicket
+- Azure Storage
+- Azure Virtual Machines
 <h2>Installation Steps: 1 - 12 (Create Virtual Environment) </h2>
 
 
