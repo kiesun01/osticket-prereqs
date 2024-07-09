@@ -2,35 +2,30 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-Tutorial for prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
-<br />
-Part 1: Creating the virtual environment in Azure.<br />
-Part 2: Installation of software dependencies and osTicket.<br />
+This guide provides a step-by-step approach to setting up and installing the osTicket help desk ticketing system. Below are the essential steps to follow:
 
 
-<h2>Environments and Technologies Used</h2>
+1. Create a Resource Group: Start by creating a resource group in Microsoft Azure.
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+2. Set Up a Virtual Machine: Deploy a virtual machine within the resource group.
 
-<h2>Operating Systems Used </h2>
+3. Enable IIS: Enable Internet Information Services (IIS) on the virtual machine.
 
-- Windows 10</b> (21H2)
+4. Install PHP: Install PHP on your server.
 
-<h2>List of Prerequisites</h2>
+5. Install MySQL: Set up MySQL for database management.
 
-- Microsoft Azure Active Subscription (Creation of Reasearch Group, VMs, Virtual Networks, Subnets)
-- Enable Internet Information Services(IIS)
-- PHP Manager
-- Rewrite Manager
-- C++ Redistributbal
-- MySQL Server
-- Install osTicket
-- Assigning Permissions
+6. Download osTicket: Obtain the latest version of osTicket and extract the files.
 
+7. Configure Permissions: Set the necessary file permissions for osTicket.
 
-<h2>Installation Steps (Part 1) Steps: 1 - 12</h2>
+8. Database Configuration: Create a database and user for osTicket.
+
+9. Finalize Installation: Complete the osTicket installation through the web installer.
+
+10. By following these steps, you will successfully install and configure osTicket in a virtual environment.
+
+<h2>Installation Steps: 1 - 12 (Create Virtual Environment) </h2>
 
 
 ![image](https://github.com/kiesun01/osticket-prereqs/assets/132006466/0544afba-0aea-4fbc-af14-48bef245be3e)
@@ -123,7 +118,7 @@ Screen should look similar to this.
 <br />
 <br />
 
-<h2>Installation Steps (Part 2) Steps:  13 - 47</h2>
+<h2>Installation Steps: 13-47 (Installation of software dependencies & osTicket)</h2>
 
 
 ![image](https://github.com/kiesun01/osticket-prereqs/assets/132006466/0a15c7db-d223-4630-9bae-9715ee638db9)
