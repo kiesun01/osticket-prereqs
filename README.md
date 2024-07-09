@@ -23,7 +23,7 @@ This guide provides a step-by-step approach to setting up and installing the osT
 
 9. Finalize Installation: Complete the osTicket installation through the web installer.
 
-10. By following these steps, you will successfully install and configure osTicket in a virtual environment.
+By following these steps, you will successfully install and configure osTicket in a virtual environment.
 
 <h2>Installation Steps: 1 - 12 (Create Virtual Environment) </h2>
 
