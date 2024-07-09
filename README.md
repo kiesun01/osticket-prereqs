@@ -20,6 +20,9 @@ This project is a comprehensive tutorial for setting up and installing the osTic
 - osTicket
 - Azure Storage
 - Azure Virtual Machines
+- MySQL (Database)
+- C++
+- PHP Configuration
 <h2>Installation Steps: 1 - 12 (Create Virtual Environment) </h2>
 
 
@@ -32,7 +35,7 @@ Step 1: Start on portal.azure.com where you can search for Reasearh Groups to cr
 
 ![image](https://github.com/kiesun01/osticket-prereqs/assets/132006466/cd72c54d-2bd4-4faf-aa2f-0e66cfe31066)
 <p>
-Step 2: Click "Create" to create the Resource Group
+Step 2: open the Resource Group create button
 </p>
 <br />
 
