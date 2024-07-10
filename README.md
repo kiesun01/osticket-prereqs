@@ -19,10 +19,11 @@ This project is a comprehensive tutorial for setting up and installing the osTic
 
 - osTicket
 - Azure Storage
-- Azure Virtual Machines
+- Microsoft Remote Protocol
 - MySQL (Database)
 - C++
 - PHP Configuration
+- Internet Information Service Manager
 <h2>Installation Steps: 1 - 12 (Create Virtual Environment) </h2>
 
 
